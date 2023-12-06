@@ -1,10 +1,10 @@
 {
     "version": 63,
-    "default_lang": "en_US",
+    "default_lang": "english",
     "translations": {
         "en_US": {
             "name": "English (US)",
-            "file": "en_US.json"
+            "file": "english.json"
         },
         "pt_BR": {
             "name": "Portuguese (BR)",
