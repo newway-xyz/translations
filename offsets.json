@@ -1,0 +1,88 @@
+{
+    "C4": {
+        "m_bBeingDefused": 3852,
+        "m_flDefuseCountDown": 3872,
+        "m_nBombSite": 3796
+    },
+    "CS2ver": 9014754,
+    "EconEntity": {
+        "AttributeManager": 4240
+    },
+    "Entity": {
+        "IsAlive": 2020,
+        "PlayerPawn": 2012,
+        "iszPlayerName": 1584
+    },
+    "EntityList": 26624408,
+    "GlobalVar": {
+        "CurrentMap": 384,
+        "CurrentMapName": 392,
+        "CurrentNetchan": 72,
+        "CurrentTime": 44,
+        "CurrentTime2": 48,
+        "FrameCount": 4,
+        "IntervalPerTick": 20,
+        "IntervalPerTick2": 68,
+        "MaxClients": 16,
+        "RealTime": 0,
+        "TickCount": 64
+    },
+    "GlobalVars": 24917472,
+    "InputSystem": 231408,
+    "LocalPlayerController": 26951144,
+    "LocalPlayerPawn": 24966808,
+    "Matrix": 27026000,
+    "Pawn": {
+        "AbsVelocity": 976,
+        "BoneArray": 496,
+        "BulletServices": 5224,
+        "CameraServices": 4400,
+        "CurrentArmor": 8912,
+        "CurrentHealth": 804,
+        "GameSceneNode": 776,
+        "MaxHealth": 800,
+        "Pos": 4724,
+        "TotalHit": 64,
+        "aimPunchAngle": 5324,
+        "aimPunchCache": 5360,
+        "angEyeAngles": 5000,
+        "bSpottedByMask": 8852,
+        "fFlags": 972,
+        "flFlashDuration": 4956,
+        "glow": 2976,
+        "glow_color": 8,
+        "glow_ovrride": 64,
+        "glowing": 81,
+        "iFovStart": 532,
+        "iIDEntIndex": 5032,
+        "iShotsFired": 8884,
+        "iTeamNum": 963,
+        "isDefusing": 8866,
+        "isScoped": 8864,
+        "m_bWaitForNoAttack": 8900,
+        "pClippingWeapon": 4848,
+        "vecLastClipCameraPos": 4820
+    },
+    "PlantedC4": 27050072,
+    "PlayerController": {
+        "HasDefuser": 2032,
+        "HasHelmet": 2033,
+        "NetworkGameClient": 5430152,
+        "NetworkGameClient_signOnState": 608,
+        "PawnArmor": 2028,
+        "m_hController": 4748,
+        "m_hObserverTarget": 68,
+        "m_hPawn": 1532,
+        "m_pObserverServices": 4368
+    },
+    "Sensitivity": 27010920,
+    "ViewAngle": 27083000,
+    "WeaponBaseData": {
+        "Clip1": 5568,
+        "Item": 80,
+        "ItemDefinitionIndex": 442,
+        "MaxClip": 508,
+        "WeaponDataPTR": 864,
+        "szName": 3112
+    }
+}
