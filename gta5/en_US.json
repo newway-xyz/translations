@@ -143,6 +143,7 @@
     "BACKEND_LOOPED_VEHICLE_RGB_PAINT_SECONDARY": "Rainbow Paint: Apply to Secondary",
     "BACKEND_LOOPED_VEHICLE_RGB_PAINT_SECONDARY_DESC": "Applies active rainbow effect to the current vehicle's secondary color.",
     "BACKEND_LOOPED_VEHICLE_RGB_PAINT_SPEED": "Rainbow Paint: Speed",
+    "GUI_TAB_PLAYER":"Player List",
     "BACKEND_LOOPED_VEHICLE_RGB_PAINT_SPEED_DESC": "Speed at which the colors will change.",
     "BACKEND_LOOPED_VEHICLE_RGB_PAINT_TIRE": "Rainbow Paint: Apply to Tire Smoke",
     "BACKEND_LOOPED_VEHICLE_RGB_PAINT_TIRE_DESC": "Applies active rainbow effect to the current vehicle's tire smoke color.",
