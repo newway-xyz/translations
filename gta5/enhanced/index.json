@@ -8,11 +8,11 @@
         },
         "pt_BR": {
             "name": "Portuguese (BR)",
-            "file": "pt-br.json"
+            "file": "pt_BR.json"
         },
         "es_ES": {
             "name": "Español (España)",
-            "file": "es-ES.json"
+            "file": "es_ES.json"
         }
     }
 }
