@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "default_lang": "en_US",
+    "translations": {
+        "en_US": {
+            "name": "English (US)",
+            "file": "en_US.json"
+        },
+        "pt_BR": {
+            "name": "Portuguese (BR)",
+            "file": "pt-br.json"
+        },
+        "es_ES": {
+            "name": "Español (España)",
+            "file": "es-ES.json"
+        }
+    }
+}
