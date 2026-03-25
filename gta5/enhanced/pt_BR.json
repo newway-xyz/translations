@@ -2629,6 +2629,8 @@
     "HOTKEY_PREFIX": "Atalho: ",
     "MONEY_LOOP_ACCEPT_DAILY_LIMIT": "Aceito o limite diário (50M / 24h) para usar money loops",
     "MONEY_LOOP_ACCEPT_DAILY_LIMIT_DESC": "Para desbloquear e usar as funções de loop de dinheiro, é obrigatório aceitar que o limite diário (janela de 24 horas exatas) é de 50 milhões de GTA$ e que ultrapassar esse limite pode resultar em banimento da conta.",
+    "MONEY_LOOP_250K_BATCH": "Loop: lote $250K",
+    "MONEY_LOOP_250K_BATCH_DESC": "Repete oito ganhos com limiar de $250.000 cada um com intervalo curto. Requer sessão online e loja ativa.",
     "MONEY_LOOP_BULK": "Loop: renda em massa (arriscado)",
     "MONEY_LOOP_BULK_DESC": "Várias etapas em sequência. Alto risco; use por sua conta e risco.",
     "MONEY_LOOP_LONG_LIST": "Loop: lista longa",

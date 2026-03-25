@@ -2629,6 +2629,8 @@
     "HOTKEY_PREFIX": "Hotkey: ",
     "MONEY_LOOP_ACCEPT_DAILY_LIMIT": "I accept the daily money loop limit (50M / 24h)",
     "MONEY_LOOP_ACCEPT_DAILY_LIMIT_DESC": "To unlock money loop features you must accept that the daily limit (exactly 24 hours) is 50 million GTA$ and that exceeding it may result in your account being banned.",
+    "MONEY_LOOP_250K_BATCH": "Loop: $250K batch",
+    "MONEY_LOOP_250K_BATCH_DESC": "Repeats eight threshold earns at $250,000 each with a short delay. Requires online session and shop.",
     "MONEY_LOOP_BULK": "Loop: bulk income (risky)",
     "MONEY_LOOP_BULK_DESC": "Multiple steps in sequence. High risk; use at your own risk.",
     "MONEY_LOOP_LONG_LIST": "Loop: long list",

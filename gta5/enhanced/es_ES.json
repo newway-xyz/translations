@@ -2629,6 +2629,8 @@
     "HOTKEY_PREFIX": "Tecla rápida: ",
     "MONEY_LOOP_ACCEPT_DAILY_LIMIT": "Acepto el límite diario (50M / 24h) para usar bucles de dinero",
     "MONEY_LOOP_ACCEPT_DAILY_LIMIT_DESC": "Para desbloquear y usar las funciones de bucle de dinero debes aceptar que el límite diario (ventana de 24 horas exactas) es de 50 millones de GTA$ y que superarlo puede conllevar el baneo de la cuenta.",
+    "MONEY_LOOP_250K_BATCH": "Bucle: lote $250K",
+    "MONEY_LOOP_250K_BATCH_DESC": "Repite ocho ganancias con umbral de $250.000 cada una con intervalo corto. Requiere sesión online y tienda activa.",
     "MONEY_LOOP_BULK": "Bucle: ingreso masivo (riesgoso)",
     "MONEY_LOOP_BULK_DESC": "Varias etapas en secuencia. Alto riesgo; úsalo bajo tu responsabilidad.",
     "MONEY_LOOP_LONG_LIST": "Bucle: lista larga",
