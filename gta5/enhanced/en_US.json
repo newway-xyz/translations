@@ -3078,5 +3078,8 @@
     "ONBOARDING_STARTUP_TITLE": "NewWay on top",
     "ONBOARDING_HINT_INSERT_DESC": "Open Click interface",
     "ONBOARDING_HINT_F5_DESC": "Open Arrows interface",
-    "ONBOARDING_HINT_CTRLK_DESC": "Search functions"
+    "ONBOARDING_HINT_CTRLK_DESC": "Search functions",
+    "ONBOARDING_MODERN_TITLE": "NewWay Modern Configuration",
+    "ONBOARDING_CARD_NEWWAY_DESC": "Connect only with other NewWay users in protected sessions.",
+    "ONBOARDING_CARD_EVERYONE_DESC": "Connect to regular public sessions protected by BattlEye."
 }

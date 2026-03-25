@@ -3078,5 +3078,8 @@
     "ONBOARDING_STARTUP_TITLE": "NewWay visible",
     "ONBOARDING_HINT_INSERT_DESC": "Abrir interfaz Click",
     "ONBOARDING_HINT_F5_DESC": "Abrir interfaz Arrows",
-    "ONBOARDING_HINT_CTRLK_DESC": "Buscar funciones"
+    "ONBOARDING_HINT_CTRLK_DESC": "Buscar funciones",
+    "ONBOARDING_MODERN_TITLE": "Configuración moderna NewWay",
+    "ONBOARDING_CARD_NEWWAY_DESC": "Conéctate solo con otros usuarios de NewWay en sesiones protegidas.",
+    "ONBOARDING_CARD_EVERYONE_DESC": "Conéctate a sesiones públicas normales protegidas por BattlEye."
 }

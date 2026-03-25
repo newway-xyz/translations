@@ -362,6 +362,9 @@ def default_pt(key: str, en: str) -> str:
         "ONBOARDING_HINT_INSERT_DESC": "Abrir interface Click",
         "ONBOARDING_HINT_F5_DESC": "Abrir interface Arrows",
         "ONBOARDING_HINT_CTRLK_DESC": "Buscar funções",
+        "ONBOARDING_MODERN_TITLE": "Configuração moderna NewWay",
+        "ONBOARDING_CARD_NEWWAY_DESC": "Conecte-se apenas a outros usuários NewWay em sessões protegidas.",
+        "ONBOARDING_CARD_EVERYONE_DESC": "Conecte-se a sessões públicas regulares protegidas pelo BattlEye.",
     }
     if key in PT:
         return PT[key]
@@ -499,6 +502,9 @@ def default_es(key: str, en: str) -> str:
         "ONBOARDING_HINT_INSERT_DESC": "Abrir interfaz Click",
         "ONBOARDING_HINT_F5_DESC": "Abrir interfaz Arrows",
         "ONBOARDING_HINT_CTRLK_DESC": "Buscar funciones",
+        "ONBOARDING_MODERN_TITLE": "Configuración moderna NewWay",
+        "ONBOARDING_CARD_NEWWAY_DESC": "Conéctate solo con otros usuarios de NewWay en sesiones protegidas.",
+        "ONBOARDING_CARD_EVERYONE_DESC": "Conéctate a sesiones públicas normales protegidas por BattlEye.",
     }
     if key in ES:
         return ES[key]
@@ -541,6 +547,9 @@ def merge_file(name: str, lang: str):
         "ONBOARDING_HINT_INSERT_DESC": "Open Click interface",
         "ONBOARDING_HINT_F5_DESC": "Open Arrows interface",
         "ONBOARDING_HINT_CTRLK_DESC": "Search functions",
+        "ONBOARDING_MODERN_TITLE": "NewWay Modern Configuration",
+        "ONBOARDING_CARD_NEWWAY_DESC": "Connect only with other NewWay users in protected sessions.",
+        "ONBOARDING_CARD_EVERYONE_DESC": "Connect to regular public sessions protected by BattlEye.",
     }
     for k, v in keys.items():
         if lang == "en":
