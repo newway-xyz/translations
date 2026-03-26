@@ -363,8 +363,13 @@ def default_pt(key: str, en: str) -> str:
         "ONBOARDING_HINT_F5_DESC": "Abrir interface Arrows",
         "ONBOARDING_HINT_CTRLK_DESC": "Buscar funções",
         "ONBOARDING_MODERN_TITLE": "Configuração moderna NewWay",
+        "ONBOARDING_MINIMAL_TITLE": "Configuração minimalista NewWay",
+        "ONBOARDING_BATTLEYE_SECTION_TITLE": "BattlEye",
         "ONBOARDING_CARD_NEWWAY_DESC": "Conecte-se apenas a outros usuários NewWay em sessões protegidas.",
         "ONBOARDING_CARD_EVERYONE_DESC": "Conecte-se a sessões públicas regulares protegidas pelo BattlEye.",
+        # Money loop (BoolCommand keys — same as code)
+        "MONEY_LOOP_ACCEPT_DAILY_LIMIT": "Aceito o limite diário (50M / 24h) para usar money loops",
+        "MONEY_LOOP_ACCEPT_DAILY_LIMIT_DESC": "Para desbloquear e usar as funções de loop de dinheiro, é obrigatório aceitar que o limite diário (janela de 24 horas exatas) é de 50 milhões de GTA$ e que ultrapassar esse limite pode resultar em banimento da conta.",
     }
     if key in PT:
         return PT[key]
@@ -503,8 +508,12 @@ def default_es(key: str, en: str) -> str:
         "ONBOARDING_HINT_F5_DESC": "Abrir interfaz Arrows",
         "ONBOARDING_HINT_CTRLK_DESC": "Buscar funciones",
         "ONBOARDING_MODERN_TITLE": "Configuración moderna NewWay",
+        "ONBOARDING_MINIMAL_TITLE": "Configuración minimalista NewWay",
+        "ONBOARDING_BATTLEYE_SECTION_TITLE": "BattlEye",
         "ONBOARDING_CARD_NEWWAY_DESC": "Conéctate solo con otros usuarios de NewWay en sesiones protegidas.",
         "ONBOARDING_CARD_EVERYONE_DESC": "Conéctate a sesiones públicas normales protegidas por BattlEye.",
+        "MONEY_LOOP_ACCEPT_DAILY_LIMIT": "Acepto el límite diario (50M / 24h) para usar bucles de dinero",
+        "MONEY_LOOP_ACCEPT_DAILY_LIMIT_DESC": "Para desbloquear y usar las funciones de bucle de dinero debes aceptar que el límite diario (ventana de 24 horas exactas) es de 50 millones de GTA$ y que superarlo puede conllevar el baneo de la cuenta.",
     }
     if key in ES:
         return ES[key]
@@ -548,8 +557,12 @@ def merge_file(name: str, lang: str):
         "ONBOARDING_HINT_F5_DESC": "Open Arrows interface",
         "ONBOARDING_HINT_CTRLK_DESC": "Search functions",
         "ONBOARDING_MODERN_TITLE": "NewWay Modern Configuration",
+        "ONBOARDING_MINIMAL_TITLE": "Minimalist NewWay Config.",
+        "ONBOARDING_BATTLEYE_SECTION_TITLE": "BattlEye",
         "ONBOARDING_CARD_NEWWAY_DESC": "Connect only with other NewWay users in protected sessions.",
         "ONBOARDING_CARD_EVERYONE_DESC": "Connect to regular public sessions protected by BattlEye.",
+        "MONEY_LOOP_ACCEPT_DAILY_LIMIT": "I accept the daily money loop limit (50M / 24h)",
+        "MONEY_LOOP_ACCEPT_DAILY_LIMIT_DESC": "To unlock money loop features you must accept that the daily limit (exactly 24 hours) is 50 million GTA$ and that exceeding it may result in your account being banned.",
     }
     for k, v in keys.items():
         if lang == "en":

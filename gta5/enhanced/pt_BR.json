@@ -3081,5 +3081,7 @@
     "ONBOARDING_HINT_CTRLK_DESC": "Buscar funções",
     "ONBOARDING_MODERN_TITLE": "Configuração moderna NewWay",
     "ONBOARDING_CARD_NEWWAY_DESC": "Conecte-se apenas a outros usuários NewWay em sessões protegidas.",
-    "ONBOARDING_CARD_EVERYONE_DESC": "Conecte-se a sessões públicas regulares protegidas pelo BattlEye."
+    "ONBOARDING_CARD_EVERYONE_DESC": "Conecte-se a sessões públicas regulares protegidas pelo BattlEye.",
+    "ONBOARDING_MINIMAL_TITLE": "Configuração minimalista NewWay",
+    "ONBOARDING_BATTLEYE_SECTION_TITLE": "BattlEye"
 }
