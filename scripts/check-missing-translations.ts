@@ -46,6 +46,8 @@ const allProjects: ProjectConfig[] = [
     languages: [
       { code: "pt_BR", file: "pt_BR.json" },
       { code: "es_ES", file: "es_ES.json" },
+      { code: "zh_CN", file: "zh_CN.json" },
+      { code: "zn_TW", file: "zn_TW.json" },
     ],
   },
   {
