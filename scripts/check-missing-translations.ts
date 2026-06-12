@@ -61,6 +61,18 @@ const allProjects: ProjectConfig[] = [
       { code: "zn_CH", file: "zn_CH.json" },
     ],
   },
+  {
+    slug: "loader",
+    name: "Loader",
+    path: resolve(ROOT, "loader"),
+    englishFile: "en_US.json",
+    languages: [
+      { code: "pt_BR", file: "pt_BR.json" },
+      { code: "es_ES", file: "es_ES.json" },
+      { code: "zh_CN", file: "zh_CN.json" },
+      { code: "zh_TW", file: "zh_TW.json" },
+    ],
+  },
 ];
 
 function loadJson(filePath: string): Record<string, string> {
