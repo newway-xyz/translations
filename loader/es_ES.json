@@ -98,5 +98,42 @@
     "ERROR_VERSION_OUTDATED": "Loader desactualizado",
     "ERROR_NO_SERVICE": "Servicio no disponible",
     "ERROR_COPY_FAILED": "Error al copiar",
-    "ERROR_BRIDGE_UNAVAILABLE": "Bridge de WebView2 no disponible (¿ejecutando fuera del Loader?)"
+    "ERROR_BRIDGE_UNAVAILABLE": "Bridge de WebView2 no disponible (¿ejecutando fuera del Loader?)",
+    "ERROR_NO_ACTIVE_PLAN": "Tu cuenta no tiene ningún plan vinculado. Revisa tu panel.",
+    "ERROR_HWID_MISMATCH": "El Hardware ID no coincide con el de tu cuenta. Resetea el HWID en el panel antes de iniciar sesión.",
+    "ERROR_USER_BANNED": "Tu cuenta está baneada. Contacta al soporte.",
+    "ERROR_USER_DELETED": "Esta cuenta ha sido eliminada.",
+    "ERROR_EMAIL_NOT_VERIFIED": "Verifica tu email antes de iniciar sesión. Revisa tu bandeja de entrada y spam.",
+
+    "CHANGELOG_TITLE": "Novedades",
+    "CHANGELOG_SUBTITLE": "Historial de actualizaciones del Loader y de los juegos.",
+    "CHANGELOG_EMPTY": "Sin entradas por ahora.",
+    "CHANGELOG_NEW_TOOLTIP": "Nuevo desde tu última visita",
+    "CHANGELOG_SEE_ALL": "ver todo ({count}) →",
+    "CHANGELOG_TYPE_UPDATE": "actualización",
+    "CHANGELOG_TYPE_FEATURE": "novedad",
+    "CHANGELOG_TYPE_BUGFIX": "corrección",
+    "CHANGELOG_TYPE_RELEASE": "lanzamiento",
+
+    "SHOPS_TITLE": "Tiendas oficiales",
+    "SHOPS_NAV": "Tiendas",
+    "SHOPS_FILTER_ALL": "Todas",
+    "SHOPS_EMPTY_FILTERED": "Ninguna tienda tiene {hack} disponible en este momento.",
+    "SHOPS_EMPTY": "Sin tiendas disponibles en este momento.",
+    "SHOPS_SOLD": "vendidas",
+    "SHOPS_LEGEND_INTRO": "Disponibilidad por juego:",
+    "SHOPS_LEGEND_WEEKLY": "= Semanal",
+    "SHOPS_LEGEND_LIFETIME": "= Vitalicio",
+    "SHOPS_TOOLTIP_WEEKLY": "{hack} Semanal: {count} disponibles",
+    "SHOPS_TOOLTIP_LIFETIME": "{hack} Vitalicio: {count} disponibles",
+
+    "UPSELL_TITLE": "Hacks disponibles en el catálogo",
+    "UPSELL_SUBTITLE": "ve dónde comprar",
+    "UPSELL_SEE_HACK": "Comprar {hack}",
+    "UPSELL_SEE_ALL": "Ver tiendas ({count})",
+
+    "BUY_NOW": "Comprar ahora",
+    "BUY_NOW_RENEW": "Renovar",
+
+    "LOGIN_AVAILABLE_FOR": "Disponible para"
 }

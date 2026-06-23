@@ -98,5 +98,42 @@
     "ERROR_VERSION_OUTDATED": "Loader desatualizado",
     "ERROR_NO_SERVICE": "Serviço indisponível",
     "ERROR_COPY_FAILED": "Falha ao copiar",
-    "ERROR_BRIDGE_UNAVAILABLE": "Bridge do WebView2 indisponível (rodando fora do Loader?)"
+    "ERROR_BRIDGE_UNAVAILABLE": "Bridge do WebView2 indisponível (rodando fora do Loader?)",
+    "ERROR_NO_ACTIVE_PLAN": "Sua conta não tem nenhum plano vinculado. Verifique seu painel.",
+    "ERROR_HWID_MISMATCH": "O Hardware ID não corresponde ao da sua conta. Resete o HWID no painel antes de logar.",
+    "ERROR_USER_BANNED": "Sua conta está banida. Entre em contato com o suporte.",
+    "ERROR_USER_DELETED": "Esta conta foi removida.",
+    "ERROR_EMAIL_NOT_VERIFIED": "Verifique seu email antes de logar. Confira a caixa de entrada e spam.",
+
+    "CHANGELOG_TITLE": "Novidades",
+    "CHANGELOG_SUBTITLE": "Histórico de updates do Loader e dos jogos.",
+    "CHANGELOG_EMPTY": "Sem entradas no momento.",
+    "CHANGELOG_NEW_TOOLTIP": "Novo desde sua última visita",
+    "CHANGELOG_SEE_ALL": "ver tudo ({count}) →",
+    "CHANGELOG_TYPE_UPDATE": "atualização",
+    "CHANGELOG_TYPE_FEATURE": "novidade",
+    "CHANGELOG_TYPE_BUGFIX": "correção",
+    "CHANGELOG_TYPE_RELEASE": "lançamento",
+
+    "SHOPS_TITLE": "Lojas oficiais",
+    "SHOPS_NAV": "Lojas",
+    "SHOPS_FILTER_ALL": "Todos",
+    "SHOPS_EMPTY_FILTERED": "Nenhuma loja com {hack} disponível no momento.",
+    "SHOPS_EMPTY": "Sem lojas disponíveis no momento.",
+    "SHOPS_SOLD": "vendidas",
+    "SHOPS_LEGEND_INTRO": "Disponibilidade por jogo:",
+    "SHOPS_LEGEND_WEEKLY": "= Semanal",
+    "SHOPS_LEGEND_LIFETIME": "= Vitalício",
+    "SHOPS_TOOLTIP_WEEKLY": "{hack} Semanal: {count} disponíveis",
+    "SHOPS_TOOLTIP_LIFETIME": "{hack} Vitalício: {count} disponíveis",
+
+    "UPSELL_TITLE": "Hacks disponíveis no catálogo",
+    "UPSELL_SUBTITLE": "veja onde comprar",
+    "UPSELL_SEE_HACK": "Comprar {hack}",
+    "UPSELL_SEE_ALL": "Ver lojas ({count})",
+
+    "BUY_NOW": "Comprar agora",
+    "BUY_NOW_RENEW": "Renovar",
+
+    "LOGIN_AVAILABLE_FOR": "Disponível para"
 }

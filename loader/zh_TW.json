@@ -98,5 +98,42 @@
     "ERROR_VERSION_OUTDATED": "Loader 已過時",
     "ERROR_NO_SERVICE": "服務不可用",
     "ERROR_COPY_FAILED": "複製失敗",
-    "ERROR_BRIDGE_UNAVAILABLE": "WebView2 橋接不可用（在 Loader 之外執行？）"
+    "ERROR_BRIDGE_UNAVAILABLE": "WebView2 橋接不可用（在 Loader 之外執行？）",
+    "ERROR_NO_ACTIVE_PLAN": "您的帳號未綁定任何方案。請查看您的面板。",
+    "ERROR_HWID_MISMATCH": "硬體 ID 與您帳號上的不符。請在面板中重設 HWID 後再登入。",
+    "ERROR_USER_BANNED": "您的帳號已被封鎖。請聯絡客服。",
+    "ERROR_USER_DELETED": "此帳號已被刪除。",
+    "ERROR_EMAIL_NOT_VERIFIED": "登入前請驗證您的電子郵件。請檢查收件匣與垃圾郵件。",
+
+    "CHANGELOG_TITLE": "最新動態",
+    "CHANGELOG_SUBTITLE": "Loader 與遊戲的更新歷史。",
+    "CHANGELOG_EMPTY": "暫無內容。",
+    "CHANGELOG_NEW_TOOLTIP": "自上次造訪後的新內容",
+    "CHANGELOG_SEE_ALL": "查看全部 ({count}) →",
+    "CHANGELOG_TYPE_UPDATE": "更新",
+    "CHANGELOG_TYPE_FEATURE": "新功能",
+    "CHANGELOG_TYPE_BUGFIX": "修正",
+    "CHANGELOG_TYPE_RELEASE": "發行",
+
+    "SHOPS_TITLE": "官方商店",
+    "SHOPS_NAV": "商店",
+    "SHOPS_FILTER_ALL": "全部",
+    "SHOPS_EMPTY_FILTERED": "目前沒有商店提供 {hack}。",
+    "SHOPS_EMPTY": "目前沒有可用的商店。",
+    "SHOPS_SOLD": "已售",
+    "SHOPS_LEGEND_INTRO": "各遊戲的庫存：",
+    "SHOPS_LEGEND_WEEKLY": "= 週卡",
+    "SHOPS_LEGEND_LIFETIME": "= 永久",
+    "SHOPS_TOOLTIP_WEEKLY": "{hack} 週卡：可用 {count}",
+    "SHOPS_TOOLTIP_LIFETIME": "{hack} 永久：可用 {count}",
+
+    "UPSELL_TITLE": "目錄中可用的輔助",
+    "UPSELL_SUBTITLE": "查看在哪裡購買",
+    "UPSELL_SEE_HACK": "購買 {hack}",
+    "UPSELL_SEE_ALL": "查看商店 ({count})",
+
+    "BUY_NOW": "立即購買",
+    "BUY_NOW_RENEW": "續訂",
+
+    "LOGIN_AVAILABLE_FOR": "支援的遊戲"
 }

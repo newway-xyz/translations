@@ -98,5 +98,42 @@
     "ERROR_VERSION_OUTDATED": "Loader is outdated",
     "ERROR_NO_SERVICE": "Service not available",
     "ERROR_COPY_FAILED": "Copy failed",
-    "ERROR_BRIDGE_UNAVAILABLE": "WebView2 bridge not available (running outside Loader?)"
+    "ERROR_BRIDGE_UNAVAILABLE": "WebView2 bridge not available (running outside Loader?)",
+    "ERROR_NO_ACTIVE_PLAN": "Your account has no plan attached. Check your dashboard.",
+    "ERROR_HWID_MISMATCH": "Hardware ID doesn't match the one on your account. Reset your HWID from the dashboard before logging in.",
+    "ERROR_USER_BANNED": "Your account is banned. Contact support.",
+    "ERROR_USER_DELETED": "This account has been deleted.",
+    "ERROR_EMAIL_NOT_VERIFIED": "Verify your email before logging in. Check your inbox and spam folder.",
+
+    "CHANGELOG_TITLE": "What's New",
+    "CHANGELOG_SUBTITLE": "Update history for the Loader and the games.",
+    "CHANGELOG_EMPTY": "No entries yet.",
+    "CHANGELOG_NEW_TOOLTIP": "New since your last visit",
+    "CHANGELOG_SEE_ALL": "see all ({count}) →",
+    "CHANGELOG_TYPE_UPDATE": "update",
+    "CHANGELOG_TYPE_FEATURE": "feature",
+    "CHANGELOG_TYPE_BUGFIX": "bugfix",
+    "CHANGELOG_TYPE_RELEASE": "release",
+
+    "SHOPS_TITLE": "Official shops",
+    "SHOPS_NAV": "Shops",
+    "SHOPS_FILTER_ALL": "All",
+    "SHOPS_EMPTY_FILTERED": "No shop currently has {hack} in stock.",
+    "SHOPS_EMPTY": "No shops available right now.",
+    "SHOPS_SOLD": "sold",
+    "SHOPS_LEGEND_INTRO": "Availability per game:",
+    "SHOPS_LEGEND_WEEKLY": "= Weekly",
+    "SHOPS_LEGEND_LIFETIME": "= Lifetime",
+    "SHOPS_TOOLTIP_WEEKLY": "{hack} Weekly: {count} available",
+    "SHOPS_TOOLTIP_LIFETIME": "{hack} Lifetime: {count} available",
+
+    "UPSELL_TITLE": "Hacks available in our catalog",
+    "UPSELL_SUBTITLE": "see where to buy",
+    "UPSELL_SEE_HACK": "Buy {hack}",
+    "UPSELL_SEE_ALL": "See shops ({count})",
+
+    "BUY_NOW": "Buy now",
+    "BUY_NOW_RENEW": "Renew",
+
+    "LOGIN_AVAILABLE_FOR": "Available for"
 }
