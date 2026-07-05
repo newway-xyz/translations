@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "default_lang": "en_US",
     "translations": {
         "en_US": {
@@ -12,11 +12,13 @@
         },
         "zh_CN": {
             "name": "Chinese (CN)",
-            "file": "zh_CN.json"
+            "file": "zh_CN.json",
+            "alphabet_type": "chinese"
         },
         "zn_TW": {
             "name": "Chinese (TW)",
-            "file": "zn_TW.json"
+            "file": "zn_TW.json",
+            "alphabet_type": "chinese"
         },
         "es_ES": {
             "name": "Español (España)",
