@@ -493,6 +493,8 @@
     "NOCLIP_AIM_SPEED_MULTIPLIER": "Noclip aim speed multiplier",
     "NOCLIP_SPEED_MULTIPLIER": "Noclip speed multiplier",
     "PROOFS": "Proofs",
+    "CHEATER_POOL": "Pool de tramposos",
+    "CHEATER_POOL_DESC": "El matchmaking te pondrá en sesiones con otros usuarios de menús de trampas.",
     "CHECK_ALL": "Check all",
     "UNCHECK_ALL": "Uncheck all",
     "BULLET": "Bullet",

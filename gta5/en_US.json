@@ -359,6 +359,8 @@
     "CHAT_COMMANDS": "Chat Commands",
     "CHAT_COMMAND_PERMISSIONS": "Chat Command Permissions",
     "CHAT_SPAM": "Chat Spam",
+    "CHEATER_POOL": "Cheater Pool",
+    "CHEATER_POOL_DESC": "Matchmaking will put you into sessions with other cheat menu users.",
     "CHECK_ALL": "Check all",
     "CHROME": "Chrome",
     "CLAN_LOGO": "Clan Logo",

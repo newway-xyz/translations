@@ -334,6 +334,8 @@
     "CHAT": "聊天",
     "CHAT_COMMANDS": "聊天命令",
     "CHAT_COMMAND_PERMISSIONS": "聊天命令权限",
+    "CHEATER_POOL": "Cheater Pool",
+    "CHEATER_POOL_DESC": "Matchmaking will put you into sessions with other cheat menu users.",
     "CHECK_ALL": "选择所有",
     "CHROME": "铬合金",
     "CLAN_LOGO": "帮会徽标",

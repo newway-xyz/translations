@@ -76,6 +76,8 @@
     "CHAT_COMMAND_PERMISSIONS": "Permissões de comando de chat",
     "CHAT_COMMANDS": "Comandos de chat",
     "CHAT": "Chat",
+    "CHEATER_POOL": "Pool de Cheaters",
+    "CHEATER_POOL_DESC": "O matchmaking colocar-te-á em sessões com outros utilizadores de menus de cheats.",
     "CHECK_ALL": "Marcar todos",
     "CHECKPOINTS": "Checkpoints",
     "CHROME": "Cromado",
