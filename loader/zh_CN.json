@@ -19,6 +19,16 @@
     "OUTDATED_DOWNLOAD": "下载最新版本",
     "OUTDATED_RECHECK": "重新检查",
 
+    "UPDATING_TITLE": "正在更新 Loader",
+    "UPDATING_BODY": "有新版本可用。正在自动下载和安装。",
+    "UPDATING_STARTING": "准备中…",
+    "UPDATING_DOWNLOADING": "下载中",
+    "UPDATING_VERIFYING": "验证中…",
+    "UPDATING_RESTARTING": "重启中…",
+    "UPDATING_ERROR": "更新失败",
+    "UPDATING_ERROR_GENERIC": "更新过程中出现错误。",
+    "UPDATING_ERROR_FALLBACK": "回退到手动下载…",
+
     "LOGIN_WELCOME": "欢迎回来",
     "LOGIN_SUB": "登录以启动您的 loader。",
     "LOGIN_EMAIL_LABEL": "邮箱",
@@ -53,6 +63,10 @@
     "GAMES_BE_OFF_TOAST": "BattlEye 已关闭 — 现在可以启动了。",
     "GAMES_INJECT_DEFAULT_OK": "Loader 已附加",
     "GAMES_INJECT_DEFAULT_FAIL": "注入失败",
+    "GAMES_ENHANCED_HINT_TITLE": "使用说明",
+    "GAMES_ENHANCED_HINT_STEP1": "请确保 GTA V 已关闭。",
+    "GAMES_ENHANCED_HINT_STEP2": "点击下方的启动按钮，然后从你的启动器（Rockstar / Steam / Epic）启动 GTA V。",
+    "GAMES_ENHANCED_HINT_NOTE": "Loader 最多等待 90 秒，游戏完成初始化后会安全注入。",
 
     "USERINFO_TITLE": "用户信息",
     "USERINFO_REQUIRES_LOGIN": "请登录以查看用户信息。",

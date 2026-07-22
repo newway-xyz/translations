@@ -19,6 +19,16 @@
     "OUTDATED_DOWNLOAD": "Baixar versão mais recente",
     "OUTDATED_RECHECK": "Verificar novamente",
 
+    "UPDATING_TITLE": "Atualizando Loader",
+    "UPDATING_BODY": "Uma nova versão está disponível. Baixando e instalando automaticamente.",
+    "UPDATING_STARTING": "Preparando…",
+    "UPDATING_DOWNLOADING": "Baixando",
+    "UPDATING_VERIFYING": "Verificando…",
+    "UPDATING_RESTARTING": "Reiniciando…",
+    "UPDATING_ERROR": "Falha na atualização",
+    "UPDATING_ERROR_GENERIC": "Algo deu errado durante a atualização.",
+    "UPDATING_ERROR_FALLBACK": "Caindo pro download manual…",
+
     "LOGIN_WELCOME": "Bem-vindo de volta",
     "LOGIN_SUB": "Entre para iniciar seu loader.",
     "LOGIN_EMAIL_LABEL": "Email",
@@ -53,6 +63,10 @@
     "GAMES_BE_OFF_TOAST": "BattlEye desativado — pode lançar agora.",
     "GAMES_INJECT_DEFAULT_OK": "Loader anexado",
     "GAMES_INJECT_DEFAULT_FAIL": "Falha na injeção",
+    "GAMES_ENHANCED_HINT_TITLE": "Como funciona",
+    "GAMES_ENHANCED_HINT_STEP1": "Certifique-se de que o GTA V está fechado.",
+    "GAMES_ENHANCED_HINT_STEP2": "Clique em INICIAR abaixo, depois abra o GTA V pelo seu launcher (Rockstar / Steam / Epic).",
+    "GAMES_ENHANCED_HINT_NOTE": "O loader aguarda até 90 segundos e injeta com segurança assim que o jogo termina o carregamento inicial.",
 
     "USERINFO_TITLE": "Informações do Usuário",
     "USERINFO_REQUIRES_LOGIN": "Faça login para ver as informações.",
