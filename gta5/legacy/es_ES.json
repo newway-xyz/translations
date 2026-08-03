@@ -1138,6 +1138,8 @@
     "RECOVERY_RESET_LSCM_RANK": "Restablecer nivel de LS Car Meet",
     "RECOVERY_MAX_LSCM_RANK": "Maximizar nivel de LS Car Meet",
     "RECOVERY_SET_KD_RATIO": "Establecer proporción B/M",
+    "RECOVERY_CHARACTER_RANK_INSTANT_SUCCESS": "Nivel {} aplicado instantáneamente a MP{}.",
+    "RECOVERY_CHARACTER_RANK_QUEUED": "Nivel {} preparado para MP{}. Cambia de sesión para aplicarlo.",
     "RECOVERY_RANK_SET_SUCCESS": "Nivel establecido para el personaje MP{}.",
     "NETSHOP_ONLINE_SESSION_REQUIRED": "Se requiere una sesión online.",
     "NETSHOP_CATALOG_UNAVAILABLE": "El catálogo de la tienda online no está disponible.",

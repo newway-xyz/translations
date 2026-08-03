@@ -2400,6 +2400,8 @@
     "RECOVERY_RESET_LSCM_RANK": "重置车友会等级",
     "RECOVERY_MAX_LSCM_RANK": "车友会等级最大化",
     "RECOVERY_SET_KD_RATIO": "设置击杀/死亡比",
+    "RECOVERY_CHARACTER_RANK_INSTANT_SUCCESS": "等级 {} 已立即应用到 MP{}。",
+    "RECOVERY_CHARACTER_RANK_QUEUED": "等级 {} 已为 MP{} 设置。切换战局后生效。",
     "RECOVERY_RANK_SET_SUCCESS": "已为 MP{} 角色设置等级。",
     "NETSHOP_ONLINE_SESSION_REQUIRED": "需要进入在线战局。",
     "NETSHOP_CATALOG_UNAVAILABLE": "在线商店目录当前不可用。",

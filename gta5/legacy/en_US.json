@@ -2358,6 +2358,8 @@
     "RECOVERY_RESET_LSCM_RANK": "Reset LS Car Meet Rank",
     "RECOVERY_MAX_LSCM_RANK": "Max LS Car Meet Rank",
     "RECOVERY_SET_KD_RATIO": "Set K/D Ratio",
+    "RECOVERY_CHARACTER_RANK_INSTANT_SUCCESS": "Level {} applied instantly to MP{}.",
+    "RECOVERY_CHARACTER_RANK_QUEUED": "Level {} queued for MP{}. Change session to apply it.",
     "RECOVERY_RANK_SET_SUCCESS": "Rank set for MP{} character.",
     "NETSHOP_ONLINE_SESSION_REQUIRED": "An online session is required.",
     "NETSHOP_CATALOG_UNAVAILABLE": "The online store catalog is unavailable.",

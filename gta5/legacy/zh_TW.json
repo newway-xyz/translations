@@ -2400,6 +2400,8 @@
     "RECOVERY_RESET_LSCM_RANK": "重設車友會等級",
     "RECOVERY_MAX_LSCM_RANK": "車友會等級最大化",
     "RECOVERY_SET_KD_RATIO": "設定擊殺/死亡比",
+    "RECOVERY_CHARACTER_RANK_INSTANT_SUCCESS": "等級 {} 已立即套用到 MP{}。",
+    "RECOVERY_CHARACTER_RANK_QUEUED": "等級 {} 已為 MP{} 設定。切換戰局後生效。",
     "RECOVERY_RANK_SET_SUCCESS": "已為 MP{} 角色設定等級。",
     "NETSHOP_ONLINE_SESSION_REQUIRED": "需要進入線上戰局。",
     "NETSHOP_CATALOG_UNAVAILABLE": "線上商店目錄目前無法使用。",
