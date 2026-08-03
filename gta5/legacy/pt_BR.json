@@ -69,6 +69,7 @@
     "NW_OVERLAY_POSITION": "Posição",
     "NW_OVERLAY_VERSION": "Versão",
     "NW_OVERLAY_REPLAY": "Replay",
+    "NW_OVERLAY_SESSION_STATUS": "Status da sessão",
     "NW_STATUS_RECORDING": "Gravando",
     "NW_STATUS_IDLE": "Inativo",
     "NW_CONFIG_PROFILES": "Perfis de Configuração",
