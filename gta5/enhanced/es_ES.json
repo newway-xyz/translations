@@ -1,5 +1,8 @@
 {
-    "_version": 12,
+    "_version": 13,
+    "RECOVERY_MONEY_METHODS": "Métodos de dinero",
+    "PAYOUT_REWARD_BATCH_1M": "Lote de recompensas - GTA$1M",
+    "PAYOUT_REWARD_BATCH_1M_DESC": "Ejecuta cuatro recompensas de GTA$250K en secuencia.",
     "RECOVERY_PURCHASES": "Compras",
     "RECOVERY_MONEY_SAFETY": "Seguridad del dinero",
     "RECOVERY_MONEY_HEISTS": "Golpes",

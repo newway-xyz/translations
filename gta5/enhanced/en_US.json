@@ -1,5 +1,8 @@
 {
-    "_version": 12,
+    "_version": 13,
+    "RECOVERY_MONEY_METHODS": "Money methods",
+    "PAYOUT_REWARD_BATCH_1M": "Reward Batch - GTA$1M",
+    "PAYOUT_REWARD_BATCH_1M_DESC": "Runs four GTA$250K rewards in sequence.",
     "RECOVERY_PURCHASES": "Purchases",
     "RECOVERY_MONEY_SAFETY": "Money safety",
     "RECOVERY_MONEY_HEISTS": "Heists",

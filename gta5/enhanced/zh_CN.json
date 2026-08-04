@@ -1,5 +1,8 @@
 {
-    "_version": 12,
+    "_version": 13,
+    "RECOVERY_MONEY_METHODS": "资金方式",
+    "PAYOUT_REWARD_BATCH_1M": "奖励批次 - GTA$1M",
+    "PAYOUT_REWARD_BATCH_1M_DESC": "依次执行四笔 GTA$250K 奖励。",
     "RECOVERY_PURCHASES": "购买",
     "RECOVERY_MONEY_SAFETY": "资金安全",
     "RECOVERY_MONEY_HEISTS": "抢劫任务",
