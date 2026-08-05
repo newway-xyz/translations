@@ -357,5 +357,21 @@
     "Weapon": "Arma",
     "Speed": "Velocidade",
     "Take the Blame": "Assumir a Culpa",
-    "Guidelines": "Diretrizes"
+    "Guidelines": "Diretrizes",
+    "Items": "Itens",
+    "RDO Map Items": "Itens do Mapa RDO",
+    "Category": "Categoria",
+    "Item": "Item",
+    "Location": "Localização",
+    "Coordinates": "Coordenadas",
+    "Nearest Location": "Localização Mais Próxima",
+    "Teleport to Item": "Teleportar para o Item",
+    "Arrowheads": "Pontas de Flecha",
+    "Eggs": "Ovos",
+    "Coins": "Moedas",
+    "Heirlooms": "Relíquias de Família",
+    "Bottles": "Garrafas",
+    "Cards": "Cartas",
+    "Jewelry": "Joias",
+    "Flowers": "Flores"
 }

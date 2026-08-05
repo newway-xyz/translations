@@ -357,5 +357,21 @@
   "Weapon": "武器",
   "Speed": "速度",
   "Take the Blame": "承担责任",
-  "Guidelines": "指南"
+  "Guidelines": "指南",
+  "Items": "物品",
+  "RDO Map Items": "RDO地图物品",
+  "Category": "分类",
+  "Item": "物品",
+  "Location": "位置",
+  "Coordinates": "坐标",
+  "Nearest Location": "最近位置",
+  "Teleport to Item": "传送到物品",
+  "Arrowheads": "箭头",
+  "Eggs": "蛋",
+  "Coins": "硬币",
+  "Heirlooms": "家传物品",
+  "Bottles": "酒瓶",
+  "Cards": "卡牌",
+  "Jewelry": "珠宝",
+  "Flowers": "花卉"
 }

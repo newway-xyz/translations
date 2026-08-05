@@ -357,5 +357,21 @@
     "Weapon": "Weapon",
     "Speed": "Speed",
     "Take the Blame": "Take the Blame",
-    "Guidelines": "Guidelines"
+    "Guidelines": "Guidelines",
+    "Items": "Items",
+    "RDO Map Items": "RDO Map Items",
+    "Category": "Category",
+    "Item": "Item",
+    "Location": "Location",
+    "Coordinates": "Coordinates",
+    "Nearest Location": "Nearest Location",
+    "Teleport to Item": "Teleport to Item",
+    "Arrowheads": "Arrowheads",
+    "Eggs": "Eggs",
+    "Coins": "Coins",
+    "Heirlooms": "Heirlooms",
+    "Bottles": "Bottles",
+    "Cards": "Cards",
+    "Jewelry": "Jewelry",
+    "Flowers": "Flowers"
 }
