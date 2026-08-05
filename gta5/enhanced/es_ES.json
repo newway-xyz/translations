@@ -1,5 +1,12 @@
 {
-    "_version": 13,
+    "_version": 14,
+    "PLAYER_MAP": "Mapa del jugador",
+    "PLAYER_MAP_SIZE": "Tamaño del mapa",
+    "PLAYER_MAP_POSITION_X": "Posición horizontal",
+    "PLAYER_MAP_POSITION_Y": "Posición vertical",
+    "PLAYER_MAP_SELECT_TARGET": "Selecciona un jugador para seguirlo.",
+    "PLAYER_MAP_POSITION_UNAVAILABLE": "La posición del jugador no está disponible temporalmente.",
+    "PLAYER_MAP_TEXTURE_UNAVAILABLE": "La textura del mapa no está disponible.",
     "RECOVERY_MONEY_METHODS": "Métodos de dinero",
     "PAYOUT_REWARD_BATCH_1M": "Lote de recompensas - GTA$1M",
     "PAYOUT_REWARD_BATCH_1M_DESC": "Ejecuta cuatro recompensas de GTA$250K en secuencia.",

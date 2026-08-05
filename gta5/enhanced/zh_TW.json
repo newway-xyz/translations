@@ -1,5 +1,12 @@
 {
-    "_version": 13,
+    "_version": 14,
+    "PLAYER_MAP": "玩家地圖",
+    "PLAYER_MAP_SIZE": "地圖大小",
+    "PLAYER_MAP_POSITION_X": "水平位置",
+    "PLAYER_MAP_POSITION_Y": "垂直位置",
+    "PLAYER_MAP_SELECT_TARGET": "請選擇要追蹤的玩家。",
+    "PLAYER_MAP_POSITION_UNAVAILABLE": "玩家位置暫時無法使用。",
+    "PLAYER_MAP_TEXTURE_UNAVAILABLE": "地圖紋理無法使用。",
     "RECOVERY_MONEY_METHODS": "資金方式",
     "PAYOUT_REWARD_BATCH_1M": "獎勵批次 - GTA$1M",
     "PAYOUT_REWARD_BATCH_1M_DESC": "依序執行四筆 GTA$250K 獎勵。",

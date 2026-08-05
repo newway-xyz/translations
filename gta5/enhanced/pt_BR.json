@@ -1,5 +1,12 @@
 {
-    "_version": 13,
+    "_version": 14,
+    "PLAYER_MAP": "Mapa do jogador",
+    "PLAYER_MAP_SIZE": "Tamanho do mapa",
+    "PLAYER_MAP_POSITION_X": "Posição horizontal",
+    "PLAYER_MAP_POSITION_Y": "Posição vertical",
+    "PLAYER_MAP_SELECT_TARGET": "Selecione um jogador para rastrear.",
+    "PLAYER_MAP_POSITION_UNAVAILABLE": "A posição do jogador está temporariamente indisponível.",
+    "PLAYER_MAP_TEXTURE_UNAVAILABLE": "A textura do mapa está indisponível.",
     "RECOVERY_MONEY_METHODS": "Formas de adicionar dinheiro",
     "PAYOUT_REWARD_BATCH_1M": "Lote de recompensas - GTA$1 mi",
     "PAYOUT_REWARD_BATCH_1M_DESC": "Executa quatro recompensas de GTA$250 mil em sequência.",

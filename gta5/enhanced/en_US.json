@@ -1,5 +1,12 @@
 {
-    "_version": 13,
+    "_version": 14,
+    "PLAYER_MAP": "Player Map",
+    "PLAYER_MAP_SIZE": "Map size",
+    "PLAYER_MAP_POSITION_X": "Horizontal position",
+    "PLAYER_MAP_POSITION_Y": "Vertical position",
+    "PLAYER_MAP_SELECT_TARGET": "Select a player to track.",
+    "PLAYER_MAP_POSITION_UNAVAILABLE": "Player position is temporarily unavailable.",
+    "PLAYER_MAP_TEXTURE_UNAVAILABLE": "Map texture is unavailable.",
     "RECOVERY_MONEY_METHODS": "Money methods",
     "PAYOUT_REWARD_BATCH_1M": "Reward Batch - GTA$1M",
     "PAYOUT_REWARD_BATCH_1M_DESC": "Runs four GTA$250K rewards in sequence.",
