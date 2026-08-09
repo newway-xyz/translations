@@ -1515,7 +1515,7 @@
     "FREECAM": "Freecam",
     "FREECAM_DESC": "Detaches the camera from the player and allows you to move it around freely",
     "FREE_SHOP": "Free Shop",
-    "FREE_SHOP_DESC": "Makes supported store purchases free: weapons, mods, ammo, clothing, tattoos, appearance, decorations, vehicles, upgrades, and MART items. Properties, warehouses, unlocks, services, and contraband are excluded for safety.",
+    "FREE_SHOP_DESC": "Makes supported store purchases free: weapons, mods, ammo, clothing, tattoos, appearance, decorations, vehicles, upgrades, MART items, properties, and warehouses. Unlocks, services, and contraband remain excluded.",
     "FREE_SHOP_FACTOR": "Reduce Factor",
     "FREE_SHOP_FACTOR_DESC": "Divisor applied to prices while Free Shop Reduce is enabled.",
     "FREE_SHOP_REDUCE": "Free Shop Reduce",

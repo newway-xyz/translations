@@ -1515,7 +1515,7 @@
     "FREECAM": "cámara libre",
     "FREECAM_DESC": "Separa la cámara del reproductor y te permite moverla libremente",
     "FREE_SHOP": "Tienda Gratis",
-    "FREE_SHOP_DESC": "Hace gratuitas las compras compatibles: armas, mods, munición, ropa, tatuajes, apariencia, decoraciones, vehículos, mejoras y artículos MART. Propiedades, almacenes, desbloqueos, servicios y contrabando se excluyen por seguridad.",
+    "FREE_SHOP_DESC": "Hace gratuitas las compras compatibles: armas, mods, munición, ropa, tatuajes, apariencia, decoraciones, vehículos, mejoras, artículos MART, propiedades y almacenes. Los desbloqueos, servicios y el contrabando siguen excluidos.",
     "FREE_SHOP_FACTOR": "Factor de Reducción",
     "FREE_SHOP_FACTOR_DESC": "Divisor aplicado a los precios mientras Tienda Gratis Reducida está activada.",
     "FREE_SHOP_REDUCE": "Tienda Gratis Reducida",

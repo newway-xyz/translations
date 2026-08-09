@@ -1570,7 +1570,7 @@
     "FREECAM": "Freecam",
     "FREECAM_DESC": "Desconecta a câmera do player e permite movê-la livremente",
     "FREE_SHOP": "Loja Grátis",
-    "FREE_SHOP_DESC": "Torna gratuitas as compras compatíveis: armas, mods, munição, roupas, tatuagens, aparência, decorações, veículos, upgrades e itens MART. Propriedades, depósitos, desbloqueios, serviços e contrabando são excluídos por segurança.",
+    "FREE_SHOP_DESC": "Torna gratuitas as compras compatíveis: armas, mods, munição, roupas, tatuagens, aparência, decorações, veículos, upgrades, itens MART, propriedades e depósitos. Desbloqueios, serviços e contrabando continuam excluídos.",
     "FREE_SHOP_FACTOR": "Fator de Redução",
     "FREE_SHOP_FACTOR_DESC": "Divisor aplicado aos preços enquanto o modo Loja Grátis Reduzida estiver ativo.",
     "FREE_SHOP_REDUCE": "Loja Grátis Reduzida",
