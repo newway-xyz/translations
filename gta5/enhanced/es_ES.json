@@ -5078,5 +5078,11 @@
     "BREATHE_EFFECT_FIRE": "Fuego",
     "BREATHE_EFFECT_BLOOD": "Vómito sangriento",
     "GHOST_RIDER": "Motorista Fantasma",
-    "GHOST_RIDER_DESC": "Añade llamas a la cabeza, las manos y las ruedas del vehículo actual del jugador."
+    "GHOST_RIDER_DESC": "Añade llamas a la cabeza, las manos y las ruedas del vehículo actual del jugador.",
+    "AUTO_SETUP_CHEAPEST_BUSINESSES": "Comprar e Iniciar Negocios Más Baratos",
+    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "Compra las propiedades de producción más baratas con Free Shop, completa la configuración inicial, llena los suministros e inicia la producción y el abastecimiento.",
+    "BUSINESS_BOOTSTRAP_FREESHOP_REQUIRED": "Activa Free Shop y desactiva la reducción de precio antes de ejecutar la automatización de negocios.",
+    "BUSINESS_BOOTSTRAP_ALREADY_RUNNING": "La automatización de negocios ya está en ejecución.",
+    "BUSINESS_BOOTSTRAP_STARTED": "Automatización de negocios iniciada. Las compras se procesarán una por una.",
+    "BUSINESS_BOOTSTRAP_SUMMARY": "Finalizado: {} comprados, {} ya adquiridos, {} configuraciones, {} activadores de producción/abastecimiento y {} fallos."
 }

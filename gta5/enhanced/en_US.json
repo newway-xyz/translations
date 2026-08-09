@@ -5078,5 +5078,11 @@
     "BREATHE_EFFECT_FIRE": "Fire",
     "BREATHE_EFFECT_BLOOD": "Bloody Puke",
     "GHOST_RIDER": "Ghost Rider",
-    "GHOST_RIDER_DESC": "Adds flame effects to the player's head, hands, and current vehicle wheels."
+    "GHOST_RIDER_DESC": "Adds flame effects to the player's head, hands, and current vehicle wheels.",
+    "AUTO_SETUP_CHEAPEST_BUSINESSES": "Buy & Start Cheapest Businesses",
+    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "Buys the cheapest production properties with Free Shop, completes their initial setup, fills supplies and starts production and sourcing.",
+    "BUSINESS_BOOTSTRAP_FREESHOP_REQUIRED": "Enable Free Shop and disable Price Reduction before running business automation.",
+    "BUSINESS_BOOTSTRAP_ALREADY_RUNNING": "Business automation is already running.",
+    "BUSINESS_BOOTSTRAP_STARTED": "Business automation started. Purchases will be processed one at a time.",
+    "BUSINESS_BOOTSTRAP_SUMMARY": "Finished: {} purchased, {} already owned, {} setups, {} production/source triggers and {} failures."
 }
