@@ -5088,9 +5088,15 @@
     "GHOST_RIDER": "Ghost Rider",
     "GHOST_RIDER_DESC": "Adds flame effects to the player's head, hands, and current vehicle wheels.",
     "AUTO_SETUP_CHEAPEST_BUSINESSES": "Buy & Start Cheapest Businesses",
-    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "Buys the cheapest production properties with Free Shop, completes their initial setup, fills supplies and starts production and sourcing.",
+    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "Buys the cheapest production properties with Free Shop, completes their initial setup, purchases all production upgrades, fills supplies and finished product, and starts production and sourcing.",
     "BUSINESS_BOOTSTRAP_FREESHOP_REQUIRED": "Enable Free Shop and disable Price Reduction before running business automation.",
     "BUSINESS_BOOTSTRAP_ALREADY_RUNNING": "Business automation is already running.",
     "BUSINESS_BOOTSTRAP_STARTED": "Business automation started. Purchases will be processed one at a time.",
-    "BUSINESS_BOOTSTRAP_SUMMARY": "Finished: {} purchased, {} already owned, {} setups, {} production/source triggers and {} failures."
+    "BUSINESS_BOOTSTRAP_SUMMARY": "Finished: {} purchased, {} already owned, {} setups, {} upgrades, {} production/source triggers and {} failures.",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION": "Complete All Business Production",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION_DESC": "Fills both supplies and finished product to capacity for every owned and set-up MC business, Bunker, Acid Lab, and eligible Nightclub warehouse category.",
+    "BUSINESS_PRODUCTION_ALREADY_RUNNING": "Business production completion is already running.",
+    "BUSINESS_PRODUCTION_STARTED": "Filling product and supplies for all owned businesses. Inventories will be processed one at a time.",
+    "BUSINESS_PRODUCTION_NOTHING_FOUND": "No owned production business was found.",
+    "BUSINESS_PRODUCTION_SUMMARY": "Finished: {} business inventories completed, {} already full, {} unavailable or not set up, and {} failures."
 }

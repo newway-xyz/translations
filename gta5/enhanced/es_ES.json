@@ -5088,9 +5088,15 @@
     "GHOST_RIDER": "Motorista Fantasma",
     "GHOST_RIDER_DESC": "Añade llamas a la cabeza, las manos y las ruedas del vehículo actual del jugador.",
     "AUTO_SETUP_CHEAPEST_BUSINESSES": "Comprar e Iniciar Negocios Más Baratos",
-    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "Compra las propiedades de producción más baratas con Free Shop, completa la configuración inicial, llena los suministros e inicia la producción y el abastecimiento.",
+    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "Compra las propiedades de producción más baratas con Free Shop, completa la configuración inicial, compra todas las mejoras de producción, llena los suministros y el producto terminado e inicia la producción y el abastecimiento.",
     "BUSINESS_BOOTSTRAP_FREESHOP_REQUIRED": "Activa Free Shop y desactiva la reducción de precio antes de ejecutar la automatización de negocios.",
     "BUSINESS_BOOTSTRAP_ALREADY_RUNNING": "La automatización de negocios ya está en ejecución.",
     "BUSINESS_BOOTSTRAP_STARTED": "Automatización de negocios iniciada. Las compras se procesarán una por una.",
-    "BUSINESS_BOOTSTRAP_SUMMARY": "Finalizado: {} comprados, {} ya adquiridos, {} configuraciones, {} activadores de producción/abastecimiento y {} fallos."
+    "BUSINESS_BOOTSTRAP_SUMMARY": "Finalizado: {} comprados, {} ya adquiridos, {} configuraciones, {} mejoras, {} activadores de producción/abastecimiento y {} fallos.",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION": "Completar la Producción de Todos los Negocios",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION_DESC": "Llena los suministros y el producto terminado hasta la capacidad máxima de todos los negocios de moteros, búnker, laboratorio de ácido y categorías elegibles del almacén del club nocturno que posees y has configurado.",
+    "BUSINESS_PRODUCTION_ALREADY_RUNNING": "La finalización de la producción de los negocios ya está en ejecución.",
+    "BUSINESS_PRODUCTION_STARTED": "Llenando el producto y los suministros de todos los negocios adquiridos. Los inventarios se procesarán uno por uno.",
+    "BUSINESS_PRODUCTION_NOTHING_FOUND": "No se encontró ningún negocio de producción adquirido.",
+    "BUSINESS_PRODUCTION_SUMMARY": "Finalizado: {} inventarios de negocios completados, {} ya llenos, {} no disponibles o sin configurar y {} fallos."
 }

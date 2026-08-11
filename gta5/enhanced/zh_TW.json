@@ -5088,9 +5088,15 @@
     "GHOST_RIDER": "惡靈騎士",
     "GHOST_RIDER_DESC": "在玩家的頭部、雙手和目前載具車輪上加入火焰效果。",
     "AUTO_SETUP_CHEAPEST_BUSINESSES": "購買並啟動最便宜的產業",
-    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "使用免費商店購買最便宜的生產地產，完成初始設定，補滿原料並啟動生產和貨源任務。",
+    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "使用免費商店購買最便宜的生產地產，完成初始設定，購買所有生產升級，補滿原料和成品，並啟動生產和貨源任務。",
     "BUSINESS_BOOTSTRAP_FREESHOP_REQUIRED": "執行產業自動化前，請啟用免費商店並關閉價格折扣。",
     "BUSINESS_BOOTSTRAP_ALREADY_RUNNING": "產業自動化已在執行。",
     "BUSINESS_BOOTSTRAP_STARTED": "產業自動化已啟動。購買將逐項處理。",
-    "BUSINESS_BOOTSTRAP_SUMMARY": "已完成：購買 {} 個、已有 {} 個、完成 {} 項設定、觸發 {} 項生產/貨源，失敗 {} 項。"
+    "BUSINESS_BOOTSTRAP_SUMMARY": "已完成：購買 {} 個、已有 {} 個、完成 {} 項設定、購買 {} 項升級、觸發 {} 項生產/貨源，失敗 {} 項。",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION": "完成所有產業生產",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION_DESC": "將你已擁有並完成設定的摩托幫產業、地堡、致幻劑實驗室以及符合條件的夜總會倉庫原料和成品補充至最大容量。",
+    "BUSINESS_PRODUCTION_ALREADY_RUNNING": "產業生產完成功能已在執行。",
+    "BUSINESS_PRODUCTION_STARTED": "正在補滿所有已擁有產業的成品和原料。庫存將逐項處理。",
+    "BUSINESS_PRODUCTION_NOTHING_FOUND": "未找到已擁有的生產產業。",
+    "BUSINESS_PRODUCTION_SUMMARY": "已完成：完成 {} 項產業庫存，{} 項已滿，{} 項不可用或未設定，{} 項失敗。"
 }

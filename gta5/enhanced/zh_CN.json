@@ -5088,9 +5088,15 @@
     "GHOST_RIDER": "恶灵骑士",
     "GHOST_RIDER_DESC": "在玩家的头部、双手和当前载具车轮上添加火焰效果。",
     "AUTO_SETUP_CHEAPEST_BUSINESSES": "购买并启动最便宜的产业",
-    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "使用免费商店购买最便宜的生产地产，完成初始设置，补满原料并启动生产和货源任务。",
+    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "使用免费商店购买最便宜的生产地产，完成初始设置，购买所有生产升级，补满原料和成品，并启动生产和货源任务。",
     "BUSINESS_BOOTSTRAP_FREESHOP_REQUIRED": "运行产业自动化前，请启用免费商店并关闭价格折扣。",
     "BUSINESS_BOOTSTRAP_ALREADY_RUNNING": "产业自动化已在运行。",
     "BUSINESS_BOOTSTRAP_STARTED": "产业自动化已启动。购买将逐项处理。",
-    "BUSINESS_BOOTSTRAP_SUMMARY": "已完成：购买 {} 个、已有 {} 个、完成 {} 项设置、触发 {} 项生产/货源，失败 {} 项。"
+    "BUSINESS_BOOTSTRAP_SUMMARY": "已完成：购买 {} 个、已有 {} 个、完成 {} 项设置、购买 {} 项升级、触发 {} 项生产/货源，失败 {} 项。",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION": "完成所有产业生产",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION_DESC": "将你已拥有并完成设置的摩托帮产业、地堡、致幻剂实验室以及符合条件的夜总会仓库原料和成品补充至最大容量。",
+    "BUSINESS_PRODUCTION_ALREADY_RUNNING": "产业生产完成功能已在运行。",
+    "BUSINESS_PRODUCTION_STARTED": "正在补满所有已拥有产业的成品和原料。库存将逐项处理。",
+    "BUSINESS_PRODUCTION_NOTHING_FOUND": "未找到已拥有的生产产业。",
+    "BUSINESS_PRODUCTION_SUMMARY": "已完成：完成 {} 项产业库存，{} 项已满，{} 项不可用或未设置，{} 项失败。"
 }

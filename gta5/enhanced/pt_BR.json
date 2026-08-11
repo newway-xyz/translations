@@ -5219,9 +5219,15 @@
     "GHOST_RIDER": "Motoqueiro Fantasma",
     "GHOST_RIDER_DESC": "Adiciona chamas à cabeça, mãos e rodas do veículo atual do jogador.",
     "AUTO_SETUP_CHEAPEST_BUSINESSES": "Comprar e Iniciar Negócios Mais Baratos",
-    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "Compra as propriedades de produção mais baratas com o Free Shop, conclui o setup inicial, enche os suprimentos e inicia produção e obtenção de carga.",
+    "AUTO_SETUP_CHEAPEST_BUSINESSES_DESC": "Compra as propriedades de produção mais baratas com o Free Shop, conclui o setup inicial, compra todas as melhorias de produção, enche suprimentos e produto acabado e inicia produção e obtenção de carga.",
     "BUSINESS_BOOTSTRAP_FREESHOP_REQUIRED": "Ative o Free Shop e desative a Redução de Preço antes de executar a automação dos negócios.",
     "BUSINESS_BOOTSTRAP_ALREADY_RUNNING": "A automação dos negócios já está em execução.",
     "BUSINESS_BOOTSTRAP_STARTED": "Automação dos negócios iniciada. As compras serão processadas uma por vez.",
-    "BUSINESS_BOOTSTRAP_SUMMARY": "Finalizado: {} comprados, {} já possuídos, {} setups, {} gatilhos de produção/carga e {} falhas."
+    "BUSINESS_BOOTSTRAP_SUMMARY": "Finalizado: {} comprados, {} já possuídos, {} setups, {} melhorias, {} gatilhos de produção/carga e {} falhas.",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION": "Concluir Produção de Todos os Negócios",
+    "COMPLETE_ALL_BUSINESS_PRODUCTION_DESC": "Preenche suprimentos e produto acabado até a capacidade máxima de todos os negócios de motoclube, bunker, Laboratório de Ácido e categorias elegíveis da boate que você possui e configurou.",
+    "BUSINESS_PRODUCTION_ALREADY_RUNNING": "A conclusão da produção dos negócios já está em execução.",
+    "BUSINESS_PRODUCTION_STARTED": "Preenchendo produto e suprimentos de todos os negócios possuídos. Os inventários serão processados um por vez.",
+    "BUSINESS_PRODUCTION_NOTHING_FOUND": "Nenhum negócio de produção possuído foi encontrado.",
+    "BUSINESS_PRODUCTION_SUMMARY": "Concluído: {} inventários de negócios preenchidos, {} já cheios, {} indisponíveis ou sem setup e {} falhas."
 }
